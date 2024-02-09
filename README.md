@@ -1,7 +1,7 @@
 ### Olá, meu nome é Worley Sacramento!
 <p> Eu sou desenvolvedor Front-End}</p>
 
-[![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=[(https://worleysacramento.github.io/)](https://worleysacramento.github.io/))](https://worleysacramento.github.io/)
+[![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://worleysacramento.github.io)](https://worleysacramento.github.io/)
 <p >
 <a href="https://github.com/WorleySacramento">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WorleySacramento&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
